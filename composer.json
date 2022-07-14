@@ -1,0 +1,12 @@
+{
+    "name": "arturharutyunyan1/todo_app",
+    "description": "Full Stack todo app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Artur Harutyunyan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
